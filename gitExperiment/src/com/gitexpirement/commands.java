@@ -8,6 +8,8 @@ public class commands {
       System.out.println("now I am going to my changes back to remote repository");
       System.out.println("I am checking if we are going to get conflict");
       System.out.println("I am checking if we are going to get conflict-2");
+      System.out.println("this is difference");
+
 
 
 
